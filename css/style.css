@@ -63,11 +63,11 @@ body {
   background-image: url("../images/white-wood.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 img {
   border-style: solid;
   box-sizing: border-box;
   border-color: #4F4F4F;
-  background-attachment:  fixed;
 }
