@@ -62,6 +62,7 @@ h4 {
 body {
   background-image: url("../images/white-wood.jpg");
   background-color: #cccccc;
+  background-repeat: no-repeat;
 }
 
 img {
