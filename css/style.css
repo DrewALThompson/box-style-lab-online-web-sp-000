@@ -75,9 +75,13 @@ img {
 }
 
 h4.amiable {
-  background: linear-gradient(to left, #44cc66, #22aa44)
+  background: linear-gradient(to left, #44cc66, #22aa44);
 }
 
 h4.indifferent {
-  background: linear-gradient(to right, #dddd22, #CCCC1d)
+  background: linear-gradient(to right, #dddd22, #CCCC1d);
+}
+
+h4.dubious {
+  background: linear-gradient(to right, #dd4444, #A93434);
 }
