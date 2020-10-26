@@ -69,4 +69,5 @@ img {
   border-style: solid;
   box-sizing: border-box;
   border-color: #4F4F4F;
+  background-position: fixed;
 }
