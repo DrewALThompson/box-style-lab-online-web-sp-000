@@ -62,6 +62,7 @@ body {
 
 img {
   border-style: solid;
+  border-width: 1px;
   box-sizing: border-box;
   border-color: #4F4F4F;
 }
